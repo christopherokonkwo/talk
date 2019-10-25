@@ -41,7 +41,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/dungnh/Repositories"
+            "url": "https://github.com/christopherokonkwo/Repositories"
         }
     ],
     "extra": {
