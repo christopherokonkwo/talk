@@ -65,6 +65,13 @@ composer require nahid/talk
 
 Wait for a while, Composer will automatically install Talk in your project.
 
+```
+composer require coliving-talk/repositories
+
+```
+
+This will install repositories dependency without which the Talk will not work. It was removed from the composer.json due to compartibility issues.
+
 ### Configuration
 
 When the download is complete, you have to call this package service in `config/app.php` config file. To do that, add this line in `app.php` in `providers` section:
